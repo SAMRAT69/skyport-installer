@@ -28,10 +28,10 @@ sudo apt update
 sudo apt install -y nodejs git
 
 # Step 6: Clone the repository
-git clone https://github.com/achul123/panel5
+git clone https://github.com/SAMRAT69/skyportlabspanel
 
 # Step 7: Navigate to the project directory
-cd panel5
+cd skyportlabspanel
 
 # Step 8: Install project dependencies
 npm install
